@@ -1,0 +1,14 @@
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\bin\Debug\net9.0\LojaRoupas.Client.exe
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\bin\Debug\net9.0\LojaRoupas.Client.deps.json
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\bin\Debug\net9.0\LojaRoupas.Client.runtimeconfig.json
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\bin\Debug\net9.0\LojaRoupas.Client.dll
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\bin\Debug\net9.0\LojaRoupas.Client.pdb
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.AssemblyInfoInputs.cache
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.AssemblyInfo.cs
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.csproj.CoreCompileInputs.cache
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.dll
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\refint\LojaRoupas.Client.dll
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.pdb
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\LojaRoupas.Client.genruntimeconfig.cache
+C:\Users\luanj\OneDrive\Área de Trabalho\LojaRoupas\LojaRoupas\LojaRoupas.Client\obj\Debug\net9.0\ref\LojaRoupas.Client.dll
