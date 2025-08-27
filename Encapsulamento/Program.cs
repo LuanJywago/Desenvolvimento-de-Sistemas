@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 using System;
 using Encapsulamento.Models;
 
@@ -8,7 +8,7 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
-            ContaBancaria conta = new ContaBancaria(100); // saldo inicial
+            ContaBancaria conta = new ContaBancaria(100); 
             string opcao = "";
 
             Console.WriteLine("=== API Simples de Conta Bancária (Encapsulamento com Propriedades) ===");
@@ -49,3 +49,4 @@ namespace Encapsulamento
         }
     }
 }
+
