@@ -3,8 +3,6 @@ namespace Encapsulamento.Models
 {
     public class ContaBancaria
     {
-        // Propriedade com encapsulamento:
-        // Pública para leitura, privada para alteração
         public decimal Saldo { get; private set; }
 
         public ContaBancaria(decimal saldoInicial)
@@ -12,7 +10,6 @@ namespace Encapsulamento.Models
             Saldo = saldoInicial;
         }
 
-        // Depositar
         public void Depositar(decimal valor)
         {
             if (valor > 0)
@@ -25,8 +22,6 @@ namespace Encapsulamento.Models
                 Console.WriteLine("Valor de depósito inválido!");
             }
         }
-
-        // Sacar
         public void Sacar(decimal valor)
         {
             if (valor > 0 && valor <= Saldo)
@@ -41,3 +36,4 @@ namespace Encapsulamento.Models
         }
     }
 }
+
